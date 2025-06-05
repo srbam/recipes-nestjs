@@ -30,3 +30,7 @@ http://localhost:3000
 ```bash
 npm run test
 ```
+
+## Deployment
+The API is deployed on AWS and accessible at:
+http://54.82.171.141:3000/
