@@ -4,7 +4,7 @@
 
 ```bash
 git clone https://github.com/srbam/recipes-nestjs.git
-cd recipes
+cd recipes-nestjs
 ```
 
 2. **Install dependencies:**
